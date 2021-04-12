@@ -10,11 +10,15 @@ Open source software takes a lot of time to create and maintain. Please consider
   <body>
     <tr>
       <td width="50%" height="145" align="center">
+        <br>
         <a href="https://github.com/sponsors/jonschlinkert"> Become a sponsor </a>
+        <br>
         (your logo here)
       </td>
       <td width="50%" align="center">
+        <br>
         <a href="https://github.com/sponsors/jonschlinkert"> Become a sponsor </a>
+        <br>
         (your logo here)
       </td>
     </tr>
