@@ -1,4 +1,4 @@
-I'm a software developer and full-time single dad, and I've created and currently maintain more than 1,000 open source projects. Open source software takes a lot of time to create and maintain. Please [sponsor](https://github.com/sponsors/jonschlinkert) me to help me create better developer experiences, or simply say thank you for existing projects.
+I'm a full-time open source software developer and single dad. I've created and currently maintain more than 1,000 open source projects. Open source software takes a lot of time to create and maintain. Please [sponsor](https://github.com/sponsors/jonschlinkert) me to help me create better developer experiences, or simply say thank you for existing projects.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jonschlinkert&count_private=true" alt="Jon Schlinkert's github stats">
