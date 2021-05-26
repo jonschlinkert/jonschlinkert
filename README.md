@@ -11,3 +11,7 @@ To date, I've created more than 1,000 open source projects in an effort to reach
 You can find me here:
 
 [GitHub](https://github.com/jonschlinkert) • [LinkedIn](https://linkedin.com/in/jonshlinkert) • [Twitter](https://twitter.com/jonschlinkert)
+
+**Other ways to help out**
+
+I get $10 for every person who joins coinbase using this referral code: https://www.coinbase.com/join/schlin_h1. It's free and only takes a minute. Thanks in advance!
