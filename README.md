@@ -11,7 +11,7 @@ If I could afford it, I would spend 100% of my time on open source. That's not a
 </p>
 
 
-### Sponsors
+<!-- ### Sponsors
 
 The following companies, organizations, and individuals are not only helping me spend more time doing what I love (open source collaboration!), but they are supporting the ongoing maintenance and development of software used millions of projects. [Become a Sponsor](https://github.com/sponsors/jonschlinkert) to add your logo to this README, or any of [my other projects](https://github.com/jonschlinkert?tab=repositories&q=&type=&language=&sort=stargazers)
 
@@ -22,7 +22,7 @@ The following companies, organizations, and individuals are not only helping me 
 | [https://jaake.tech/](https://jaake.tech/) |
 
 [Please contact me](mailto:jon.schlinkert@gmail.com) to add your logo to this page, or any of my other projects.
-
+-->
 ---
 
 You can find me here:
