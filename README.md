@@ -2,9 +2,9 @@ Hi, I'm Jon! I'm a full-time open source software developer and single dad.
 
 Several years ago, just before my 40th birthday, I switched careers from sales, marketing and consulting to learn how to program, with the goal of making the world a better place through code. Whether that means giving people access to information, the tools and technology to level the playing field with big corporations, or empowering people in impoverished regions to participate in the world economy.
 
-To date, I've created more than 1,000 open source projects in an effort to reach my goal. Open source software takes a lot of time to create and maintain, and millions of projects now depend on my code. You can help me to achieve my goals of improving the world through code, help me create better developer experiences, or just say "thank you" by [sponsoring me](https://github.com/sponsors/jonschlinkert) on GitHub. Any and all contributions are greatly appreciated. 
+Yes, the `is-odd` package is one of the first things I created (sorry, there is no going back now  🤦). But since then, 6 of my projects have trended to number one on GitHub, and I've created hundreds of other open source projects as part of my learning process and in an effort to reach my goals. Today tens of millions of projects depend on my code. Open source software takes a lot of time to create and maintain. Please help me to achieve my goals of improving the world through code, help me create better developer experiences, or just say "thank you" by [sponsoring me](https://github.com/sponsors/jonschlinkert) on GitHub. Any and all contributions are greatly appreciated.
 
-If I could afford it, I would spend 100% of my time on open source. That's not a reality yet, but with your help we can make it happen!
+**If I could afford it, I would spend 100% of my time on open source. That's not a reality yet, but with your help we can make it happen!**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jonschlinkert&count_private=true" alt="Jon Schlinkert's github stats">
