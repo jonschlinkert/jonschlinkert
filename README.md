@@ -1,5 +1,3 @@
-Going through a rough time, any help would be appreciated.
-
 Fun fact: `x % 2 !== 0` is wrong sometimes. You might expect `x` to be an integer, but sometimes it isn't due to JavaScript's floating point bug. 
 
 But also:
