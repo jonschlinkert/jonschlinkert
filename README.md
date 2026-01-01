@@ -1,3 +1,7 @@
+Looking forward to spending much more time on open source in 2026! Please consider sponsoring me to help me achieve this goal!
+
+---
+
 Fun fact: `x % 2 !== 0` is wrong sometimes. You might expect `x` to be an integer, but sometimes it isn't due to JavaScript's floating point bug. 
 
 But also:
