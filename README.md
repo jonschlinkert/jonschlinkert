@@ -46,4 +46,4 @@ The following companies, organizations, and individuals are not only helping me 
 
 You can find me here:
 
-[GitHub](https://github.com/jonschlinkert) • [LinkedIn](https://linkedin.com/in/jonshlinkert) • [Twitter](https://twitter.com/jonschlinkert)
+[GitHub](https://github.com/jonschlinkert) • [LinkedIn](https://linkedin.com/in/jonschlinkert) • [Twitter](https://twitter.com/jonschlinkert)
