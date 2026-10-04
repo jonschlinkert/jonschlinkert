@@ -4,6 +4,17 @@ My passion is open source, I'd love to do this full time. Please consider sponso
 
 ---
 
+Fun fact: `x % 2 !== 0` is wrong sometimes. You might expect `x` to be an integer, but sometimes it isn't due to JavaScript's floating point bug. 
+
+But also:
+
+```ts
+console.log(NaN % 2 !== 0); // => true
+console.log('abc' % 2 !== 0); // => true
+```
+
+---
+
 Hi, I'm Jon! I'm a full-time open source software developer and single dad. 
 
 Several years ago, just before my 40th birthday, I switched careers from sales, marketing, and consulting to learn how to program, with the goal of making the world a better place through code. Whether that means giving people access to information, the tools and technology to level the playing field with big corporations, or empowering people in impoverished regions to participate in the world economy.
@@ -19,21 +30,6 @@ _Each contribution I receive increases the depth and time I can spend on maintai
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jonschlinkert&count_private=true" alt="Jon Schlinkert's github stats">
 </p>
-
-
-
----
-
-Fun fact: `x % 2 !== 0` is wrong sometimes. You might expect `x` to be an integer, but sometimes it isn't due to JavaScript's floating point bug. 
-
-But also:
-
-```ts
-console.log(NaN % 2 !== 0); // => true
-console.log('abc' % 2 !== 0); // => true
-```
-
----
 
 <!-- ### Sponsors
 
