@@ -4,6 +4,10 @@ My passion is open source, I'd love to do this full time. Please consider sponso
 
 ---
 
+If you email me for support, first visit this page and [choose a sponsorship level](https://github.com/sponsors/jonschlinkert).
+
+---
+
 ## Help me spend more time contributing
 
 **If I could afford it, I would spend 100% of my time on open source. That's not a reality yet, but with your help we can make it happen!**
